@@ -1,11 +1,14 @@
 # Awesome-ALC
 
+For some reason, I wanted to read everything this woman has written. This is how I'm keeping track of it. 
+
 ## Original Work
 ### Essays
 - [X] [On Liking Women](https://www.nplusonemag.com/issue-30/essays/on-liking-women/) 💜
 - [ ] [did Sissy Porn Make Me Trans](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://static1.squarespace.com/static/5a9b1c0812b13f48e686fdc4/t/5a9c17e1f9619a449856c4fe/1520179170246/Chu-Did%2BSissy%2BPorn%2BMake%2BMe%2BTrans%2520percent3F%2B%2520percent28QD2%2520percent29.pdf&ved=2ahUKEwiU1b6glJCCAxWqtokEHcvMDCMQFnoECA0QAQ&usg=AOvVaw10ggY7t0pzzb075SD5Q5X6)
 - [X] [My new vagina won't make me happy](https://www.nytimes.com/2018/11/24/opinion/sunday/vaginoplasty-transgender-medicine.html)
 - [ ] [Bad TV](https://www.nplusonemag.com/issue-31/politics/bad-tv/)
+- [ ] [The Pink](https://www.nplusonemag.com/issue-34/politics/the-pink/]
 
 ### Reviews
 - [X] [Psycho Analysis: Bret Easton Ellis rages against the decline of american culture](https://www.bookforum.com/print/2601/bret-easton-ellis-rages-against-the-decline-of-american-culture-20825) 💜
@@ -15,6 +18,8 @@
 - [ ] [What can we learn about gender from the matrix](https://www.vulture.com/2019/02/what-the-matrix-can-teach-us-about-gender.html#_ga=2.223137819.1016277990.1698200963-353012500.1698084853)
     - I found this one as I was making this and i am very excited to read it
 - [X] [Ottessa Moshfegh Is Praying for Us](https://www.vulture.com/article/ottessa-moshfegh-lapvona-review.html)
+- [ ] [Let's go Lesbians](https://www.artforum.com/features/andrea-long-chu-on-jill-johnstons-separatism-243563/) 
+    - definitely need to read this; Re: Lesbian Separatism
 
 [nymag archive](https://nymag.com/author/andrea-long-chu/)
 
