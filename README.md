@@ -10,6 +10,7 @@ For some reason, I wanted to read everything this woman has written. This is how
 - [ ] [Bad TV](https://www.nplusonemag.com/issue-31/politics/bad-tv/)
 - [ ] [The Pink](https://www.nplusonemag.com/issue-34/politics/the-pink/)
 
+
 ### Reviews
 - [X] [Psycho Analysis: Bret Easton Ellis rages against the decline of american culture](https://www.bookforum.com/print/2601/bret-easton-ellis-rages-against-the-decline-of-american-culture-20825) 💜
 - [X] [No one Wants it](https://www.affidavit.art/articles/no-one-wants-it) 💜
@@ -24,6 +25,9 @@ For some reason, I wanted to read everything this woman has written. This is how
     - Tumblr webcomic? 
 
 [nymag archive](https://nymag.com/author/andrea-long-chu/)
+
+### Other???? 
+- [ ] [avital ronell](https://www.chronicle.com/article/i-worked-with-avital-ronell-i-believe-her-accuser/)
 
 ## Interviews
 - [ ] [Trans Oral History](https://nyctransoralhistory.org/interview/andrea-long-chu/)
