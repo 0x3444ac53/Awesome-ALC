@@ -10,11 +10,11 @@
 ### Reviews
 - [X] [Psycho Analysis: Bret Easton Ellis rages against the decline of american culture](https://www.bookforum.com/print/2601/bret-easton-ellis-rages-against-the-decline-of-american-culture-20825) 💜
 - [X] [No one Wants it](https://www.affidavit.art/articles/no-one-wants-it) 💜
-- [] [You’ve Heard This One Before](https://www.vulture.com/article/maggie-nelson-on-freedom-review.html) 💜
+- [X] [You’ve Heard This One Before](https://www.vulture.com/article/maggie-nelson-on-freedom-review.html) 💜
 - [X] [Misreading Octavia Butler](https://www.vulture.com/article/octavia-e-butler-why-we-misread-her.html#_ga=2.186093865.1016277990.1698200963-353012500.1698084853)
 - [] [What can we learn about gender from the matrix](https://www.vulture.com/2019/02/what-the-matrix-can-teach-us-about-gender.html#_ga=2.223137819.1016277990.1698200963-353012500.1698084853)
     - I found this one as I was making this and i am very excited to read it
-- [] [Ottessa Moshfegh Is Praying for Us](https://www.vulture.com/article/ottessa-moshfegh-lapvona-review.html)
+- [X] [Ottessa Moshfegh Is Praying for Us](https://www.vulture.com/article/ottessa-moshfegh-lapvona-review.html)
 
 [nymag archive](https://nymag.com/author/andrea-long-chu/)
 
