@@ -26,8 +26,11 @@ For some reason, I wanted to read everything this woman has written. This is how
 
 [nymag archive](https://nymag.com/author/andrea-long-chu/)
 
-### Other???? 
+### Opinion 
 - [ ] [avital ronell](https://www.chronicle.com/article/i-worked-with-avital-ronell-i-believe-her-accuser/)
+
+### Academic 
+- [ ] [Trauma, affect, event](https://www.womenandperformance.org/bonus-articles-1/andrea-long-chu-27-3)
 
 ## Interviews
 - [ ] [Trans Oral History](https://nyctransoralhistory.org/interview/andrea-long-chu/)
