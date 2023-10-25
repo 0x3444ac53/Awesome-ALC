@@ -20,6 +20,8 @@ For some reason, I wanted to read everything this woman has written. This is how
 - [X] [Ottessa Moshfegh Is Praying for Us](https://www.vulture.com/article/ottessa-moshfegh-lapvona-review.html)
 - [ ] [Let's go Lesbians](https://www.artforum.com/features/andrea-long-chu-on-jill-johnstons-separatism-243563/) 
     - definitely need to read this; Re: Lesbian Separatism
+- [ ] [Know Joke](https://www.artforum.com/columns/andrea-long-chu-on-alex-norriss-_webcomic-name_-238356/)
+    - Tumblr webcomic? 
 
 [nymag archive](https://nymag.com/author/andrea-long-chu/)
 
