@@ -37,3 +37,6 @@ For some reason, I wanted to read everything this woman has written. This is how
 - [X] [Wanting bad things](https://thepointmag.com/dialogue/wanting-bad-things-andrea-long-chu-responds-amia-srinivasan/)
 - [X] [High Low with EmRata](https://spotify.link/V0yeeiwOaEb)
 - [X] [another one](https://www.novembermag.com/content/andrea-long-chu)
+
+# Others writing about her writing 
+- [ ] [Commitment to the bit](https://publicseminar.org/essays/commitment-to-the-bit/)
